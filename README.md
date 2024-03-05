@@ -1,4 +1,4 @@
-# git prac
+# gitprac
 
 안녕하세요
 
